@@ -13,8 +13,13 @@
 - Cálculo vetorial
 - Movimento retilíneo uniforme
 - Movimento retilínio uniformemente variável
+- Bouncing
 - Detecção de entradas 2
 - Desenho de imagens
 - Sprites
+- Animação de Sprites
 - Tiles
+- Parallax
 - Design Patterns
+- Horizontal Scrooling
+- Vertical Scrooling
