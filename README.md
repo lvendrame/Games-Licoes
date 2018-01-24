@@ -19,7 +19,7 @@
 - Sprites
 - Animação de Sprites
 - Tiles
-- Parallax
+- Parallax Scrooling
 - Design Patterns
 - Horizontal Scrooling
 - Vertical Scrooling
