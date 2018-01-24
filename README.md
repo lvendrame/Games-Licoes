@@ -17,4 +17,4 @@
 - Desenho de imagens
 - Sprites
 - Tiles
-
+- Design Patterns
